@@ -6,3 +6,7 @@
 This is very exciting
 
 ![Mulearn Logo](https://avatars.githubusercontent.com/u/98015594?s=280&v=4)
+
+```python
+print("Hi Mulearn")
+```
