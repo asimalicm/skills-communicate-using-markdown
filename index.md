@@ -10,3 +10,6 @@ This is very exciting
 ```python
 print("Hi Mulearn")
 ```
+
+- [ ] Task 1 Not Completed
+- [x] Task 2 completed
